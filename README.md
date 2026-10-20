@@ -25,6 +25,32 @@ Información interna para los alumnos actores y actrices componentes del Taller
 | Felipe         | Melchor           | el dormido                                                                                               |
 | Anabel         | Maruja            |                                                                                                          |
 
+## Escenario
+
+El decorado tiene 2 partes contiguas
+
+1. IZQUIERDA - Plaza de un pueblo con un árbol centenario,
+
+2. DERECHA - Terraza del bar de la Boni. 
+
+
+
+## Sinopsis
+
+### ACTO PRIMERO
+
+1- La historia transcurre en 1979 en un pueblo cualquiera del interior de España. Pronto se celebrarán las elecciones. 
+
+2- Éxodo rural y despoblación. No quedan prácticamente vecinos y todos son mayores de 65 años. Debido a los pocos vecinos censados en el pueblo, el ayuntamiento puede convertirse en pedanía.
+
+3- Hay un balneario que se cerró hace años y el tren no ha vuelto a parar en el apeadero. Cuando el balneario el pueblo estaba lleno de veraneantes. 
+
+
+
+
+
+
+
 ## Piezas Musicales
 
 ### 1- Inicio de la obra
