@@ -1,6 +1,6 @@
-# *'Mi pueblo'* - Espectáculo Teatral 26_27 en el CMM BML
+# *'Mi pueblo'* - Espectáculo Teatral 26_27 en el CMM BML - <u>web en construcción</u>
 
-Información interna para los componentes del Taller
+Información interna para los alumnos actores y actrices componentes del Taller
 
 ## Asignación de personajes
 
@@ -33,14 +33,10 @@ Esta es la música del inicio de la obra . Donde va a bailar un pasodoble una pa
 
 [Clouds - YouTube](https://youtu.be/QkL99xL1Wqg?is=IbUgOX0qEn5bvteT)
 
-
-
 ### 2- Canción de Manoly
 
 MANOLY, esta es la canción que tienes que  cantar
 
 [Lupin Fisarmonica - YouTube](https://youtu.be/EagkjoJ_vR4?is=zd0nH8yNt2-ZBC_L)
-
-
 
 ---
